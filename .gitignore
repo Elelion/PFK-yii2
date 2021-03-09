@@ -30,7 +30,7 @@ tests/_support/_generated
 /.vagrant
 
 #my rules for ignoring
-
+/config/
 /runtime/
 /tests/
 /vagrant/
